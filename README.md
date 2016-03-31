@@ -1,0 +1,3 @@
+# maven_demo1
+使用maven搭建的第一个web应用
+主要学习maven的配置文件pom.xml文件的编写
